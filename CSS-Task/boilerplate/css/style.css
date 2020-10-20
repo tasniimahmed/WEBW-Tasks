@@ -1,6 +1,6 @@
 header{
     background-color: #19283F;
-    color: blanchedalmond;
+    color: white;
     height: 500px;
 }
 
@@ -45,7 +45,7 @@ h4{
 
 
 /* We make this section */
-.make{
+.make, .team{
   background-color: #EFF7FA;
   text-align: center;
 }
@@ -75,3 +75,25 @@ table{
   text-align: center;
 }
 
+/* meet the team section */
+.square2{
+  height: 389px;
+  width : 270px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  background-color: #ffffff;
+}
+.square3{
+  background-color: #00C6BF;
+  height: 50px;
+  width:270px;
+  position: absolute;
+  margin-top:220px;
+}
+/* project section*/
+.project{
+  background-color: #19283F;
+  text-align: center;
+  color:white;
+  height: 389px;
+}
